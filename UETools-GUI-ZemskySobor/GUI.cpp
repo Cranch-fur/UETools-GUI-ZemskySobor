@@ -745,7 +745,7 @@ void GUI::Draw()
 			}
 			if (ImGui::IsItemClicked())
 			{
-				ShellExecuteA(NULL, "open", "https://github.com/Cranch-fur/UETools-GUI", NULL, NULL, SW_SHOWNORMAL);
+				ShellExecuteA(NULL, "open", "https://github.com/Cranch-fur/UETools-GUI-ZemskySobor/", NULL, NULL, SW_SHOWNORMAL);
 			}
 			 
 
